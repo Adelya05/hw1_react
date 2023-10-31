@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hw1_react/static/css/main.1f535575.css",
+    "main.js": "/hw1_react/static/js/main.3d7e23d0.js",
+    "static/media/Rectangle (22).png": "/hw1_react/static/media/Rectangle (22).63ca2c517c1c5ffcedd8.png",
+    "static/media/Rectangle (30).png": "/hw1_react/static/media/Rectangle (30).2fe44e4df1992fc9cb2c.png",
+    "static/media/Rectangle (23).png": "/hw1_react/static/media/Rectangle (23).9f638aff464e8a1852a7.png",
+    "static/media/Rectangle (29).png": "/hw1_react/static/media/Rectangle (29).b0a29a7fcafcb5ba06d6.png",
+    "static/media/Rectangle (28).png": "/hw1_react/static/media/Rectangle (28).19fa3bee3238dac4943a.png",
+    "static/media/Rectangle (26).png": "/hw1_react/static/media/Rectangle (26).d84ee0063e69bbd1745f.png",
+    "static/media/Frame.svg": "/hw1_react/static/media/Frame.ec8b5777930bc633989c9fbe3065391a.svg",
+    "static/media/Rectangle (24).png": "/hw1_react/static/media/Rectangle (24).5dd48e8801b5d818cdde.png",
+    "static/media/Rectangle (25).png": "/hw1_react/static/media/Rectangle (25).8021ad695c613252cd17.png",
+    "index.html": "/hw1_react/index.html",
+    "main.1f535575.css.map": "/hw1_react/static/css/main.1f535575.css.map",
+    "main.3d7e23d0.js.map": "/hw1_react/static/js/main.3d7e23d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f535575.css",
+    "static/js/main.3d7e23d0.js"
+  ]
+}
